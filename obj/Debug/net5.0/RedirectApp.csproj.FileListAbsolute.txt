@@ -1,0 +1,16 @@
+D:\RedirectApp\bin\Debug\net5.0\RedirectApp.exe
+D:\RedirectApp\bin\Debug\net5.0\RedirectApp.deps.json
+D:\RedirectApp\bin\Debug\net5.0\RedirectApp.runtimeconfig.json
+D:\RedirectApp\bin\Debug\net5.0\RedirectApp.runtimeconfig.dev.json
+D:\RedirectApp\bin\Debug\net5.0\RedirectApp.dll
+D:\RedirectApp\bin\Debug\net5.0\ref\RedirectApp.dll
+D:\RedirectApp\bin\Debug\net5.0\RedirectApp.pdb
+D:\RedirectApp\obj\Debug\net5.0\RedirectApp.csproj.AssemblyReference.cache
+D:\RedirectApp\obj\Debug\net5.0\RedirectApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\RedirectApp\obj\Debug\net5.0\RedirectApp.AssemblyInfoInputs.cache
+D:\RedirectApp\obj\Debug\net5.0\RedirectApp.AssemblyInfo.cs
+D:\RedirectApp\obj\Debug\net5.0\RedirectApp.csproj.CoreCompileInputs.cache
+D:\RedirectApp\obj\Debug\net5.0\RedirectApp.dll
+D:\RedirectApp\obj\Debug\net5.0\ref\RedirectApp.dll
+D:\RedirectApp\obj\Debug\net5.0\RedirectApp.pdb
+D:\RedirectApp\obj\Debug\net5.0\RedirectApp.genruntimeconfig.cache
